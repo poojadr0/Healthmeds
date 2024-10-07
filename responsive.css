@@ -1,0 +1,92 @@
+@media (max-width: 1120px) {
+
+
+    .custom_nav-container .form-inline input {
+        display: none;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .login_btn-contanier {
+        margin: 15px 0;
+    }
+
+    .hero_area {
+        height: auto;
+    }
+
+    .slider_section.position-relative {
+        padding: 120px 0;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .slider_section .carousel-control-prev,
+    .slider_section .carousel-control-next {
+        display: none;
+    }
+
+    .slider_section .detail-box {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .discount_section .detail-box {
+        text-align: center;
+    }
+
+    .client_section .client_container {
+        width: 95%;
+    }
+
+    .contact_section {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .contact_section .detail-box {
+        margin: 0 -15px;
+        margin-top: 25px;
+    }
+
+    .info_section {
+        text-align: center;
+    }
+
+    .info_section .row>div {
+        margin: 25px 0;
+    }
+
+    .info_section .info_contact .box {
+        justify-content: center;
+    }
+
+    .footer_section p {
+        width: auto;
+    }
+}
+
+@media (max-width: 576px) {
+    .health_section .box {
+        width: auto;
+        margin-right: 5px;
+    }
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 420px) {}
+
+@media (max-width: 360px) {
+    .top_contact-container {
+        display: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
